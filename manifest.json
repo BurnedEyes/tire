@@ -1,0 +1,6 @@
+{
+  "short_name": "Tires",
+  "name": "Tire React",
+  "start_url": ".",
+  "display": "standalone"
+}
